@@ -1,87 +1,101 @@
 @charset "utf-8";
-.main .page1 p{
-	font-size: 2rem;
-	color: #68A47B;
-	margin-top: 16rem;
-	/*position: absolute;*/
-	left: 14rem;
-	top: 1rem;
-}
 .main .page1 .p{
 	width: 300px;
+	font-size: 3rem;
+	color: white;
 	position: absolute;
-	left: 15rem;
-	top: 14rem;
+	left: 7rem;
+	top: 30rem;
 }
 .main .page2 p{
 	margin-top: 1rem;
-	color: #68A47B;
+	color: white;
 	margin-top: 1rem;
 	font-size: 1.4rem;
 }
 .main .page2 .wenzi{
-	color: #68A47B;
+	color: white;
 	font-size: 3rem;
-	margin-left: -23rem;
 }
 .main .page2 .p1{
 	margin-top: 1rem;
-	color: #68A47B;
+	color: white;
 	margin-top: 3rem;
 	font-size: 1.4rem;
 }
 .main .page2 img{
-	width: 120px;
+	width: 160px;
 	height: 160px;
 	margin-top: 8rem;
 }
-.main .page4 p{
-	width: 30rem;
-	height: 35rem;
+.main .page4 .b{
+	margin-top: 2rem;
 	font-size: 3rem;
-	color: #68A47B;
-	margin-left: 10rem;
-	margin-top: 18rem;
+	color: white;
 }
-.main .page5 img{
-	width: 300px;
-	height: 320px;
+.main .page4 .bb{
+	margin-top: 3rem;
+	font-size: 3rem;
+	color: white;
+	text-align: left;
+}
+.main .page4 .bbb{
+	font-size: 3rem;
+	color: white;
+	text-align: right;
+}
+.main .page4 .bbbb{
+	font-size: 3rem;
+	color: white;
+	text-align: left;
+}
+.main .page4 .bbbbb{
+	font-size: 3rem;
+	color: white;
+	text-align: right;
 }
 .main .page5 p{
 	font-size: 1.8rem;
-	width: 33rem;
-	height: 15rem;
-	color: #68A47B;
-	margin-left: 10rem;
+	color: white;
+	margin-top: 8rem;
+}
+.main .page5 .ti{
+	font-size: 2rem;
+	color: white;
+	margin-top: 2rem;
 }
 .main .page6 img{
 	width: 310px;
 	height: 320px;
 }
 .main .page6 b{
-	color: #68A47B;
+	color: white;
 }
 .main .page6 .p{
-	color: #68A47B;
+	color: white;
 	font-size: 1rem;
 	text-align: center;
-	margin-top: 11rem;
+	line-height: 2rem;
+	margin-top: 2rem;
 }
 .main .page6 .p1{
-	color: #68A47B;
+	color: white;
 	font-size: 1rem;
 	text-align: center;
+	line-height: 2rem;
 	margin-top: 2rem;
 }
 .main .page6 .p2{
-	color: #68A47B;
+	color: white;
 	font-size: 1rem;
 	text-align: center;
+	line-height: 2rem;
 	margin-top: 2rem;
 }
 .main .page6 .p3{
-	color: #68A47B;
+	color: white;
 	font-size: 1.2rem;
 	text-align: center;
-	margin-top: 3rem;
+	line-height: 2rem;
+	margin-top: 2rem;
 }
